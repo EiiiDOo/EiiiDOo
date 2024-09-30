@@ -11,6 +11,8 @@ I am honing my skills to deliver exceptional mobile experiences. Passionate abou
 ## 🚀 About Me
 
 - 🔭 I'm currently studying Android Development in ITI.
+- [My Resume](https://github.com/user-attachments/files/17188473/AHMED-EID-IBRAHIM-latest.cv.pdf)
+
 <!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
