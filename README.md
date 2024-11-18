@@ -1,17 +1,20 @@
 # Hi, I'm Ahmed Eid! 👋
 
-I'm Ahmed Eid, a dedicated Android app developer currently enrolled in an intensive training program at the Information Technology Institute (ITI).
+I'm Ahmed Eid, an Android app developer currently Information Technology Institute (ITI) graduate - Android Track.
 I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br><br>
 [![wakatime](https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg)](https://wakatime.com/@EiiDoo)
 
-![Filopatir-Mamdouh's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
+![AHmed-Eid's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently studying Android Development in ITI.
-- [My Resume](https://github.com/user-attachments/files/17188473/AHMED-EID-IBRAHIM-latest.cv.pdf)
+- 🔭 ITI graduate Android Track.
+- 🤔 Looking for a jop now.
+- ✍️ Keep learning more about android. 
+- 💬[ My Resume](https://github.com/user-attachments/files/17804521/AHMED-EID-IBRAHIM-Resume.pdf)
+
 
 <!-- - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
