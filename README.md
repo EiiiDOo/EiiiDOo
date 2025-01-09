@@ -22,7 +22,7 @@ I am honing my skills to deliver exceptional mobile experiences. Passionate abou
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
 
 ## My Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,c,cpp,firebase,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,c,cpp,firebase,py,html,css)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiiiDOo&theme=graywhite&layout=compact)](https://github.com/EiiiDOo)
 
