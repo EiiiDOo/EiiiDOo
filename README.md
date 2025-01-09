@@ -2,7 +2,7 @@
 
 I'm Ahmed Eid, an Android app developer currently Information Technology Institute (ITI) graduate - Android Track.
 I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
-<br>
+<br></br>
 [![wakatime](https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg)](https://wakatime.com/@EiiDoo)
 
 ![AHmed-Eid's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
