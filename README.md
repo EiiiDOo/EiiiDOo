@@ -1,7 +1,8 @@
 # Hi, I'm Ahmed Eid! 👋
 
-I'm Ahmed Eid, an Android app developer currently Information Technology Institute (ITI) graduate - Android Track.
-I am honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Android applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
+I'm Ahmed Eid, an Mobile Application developer Information Technology Institute (ITI) graduate - Android Track.
+After that I learned to develop websites with React, then React Native, and now I am learning Flutter.
+I'm honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Mobile applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br></br>
 [![wakatime](https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg)](https://wakatime.com/@EiiDoo)
 
@@ -12,7 +13,7 @@ I am honing my skills to deliver exceptional mobile experiences. Passionate abou
 
 - 🔭 ITI graduate Android Track.
 - 🤔 Looking for a jop now.
-- ✍️ Keep learning more about android. 
+- ✍️ Keep learning more about Mobile Development. 
 - 💬[ My Resume](https://drive.google.com/file/d/1xQDpfCbvXAkl7lPiNUbGZfb2rv8MRPhn/view?usp=sharing)
 
 
@@ -21,7 +22,7 @@ I am honing my skills to deliver exceptional mobile experiences. Passionate abou
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community. -->
 
 ## My Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,c,cpp,firebase,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter,dart,firebase,html,css,javascript,typescript,react,c,cpp,py,)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EiiiDOo&theme=graywhite&layout=compact)](https://github.com/EiiiDOo)
 
