@@ -4,11 +4,19 @@ I'm Ahmed Eid, an Mobile Application developer Information Technology Institute 
 After that I learned to develop websites with React, then React Native, and now I am learning Flutter.
 I'm honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Mobile applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br></br>
+
 [![wakatime](https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg)](https://wakatime.com/@EiiDoo)
 
 ![AHmed-Eid's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
 
+## 🧠 Problem Solving Stats
+<!--[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=HackerRank)](https://www.hackerrank.com/your_username)
+[![HackerRank](https://your-image-host.com/hackerrank-badge.png)](https://www.hackerrank.com/your_username)
+-->
 
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/EiiDoo?theme=light&font=baloo&ext=contest)](https://leetcode.com/EiiDoo)
+<hr/>
 ## 🚀 About Me
 
 - 🔭 ITI graduate Android Track.
