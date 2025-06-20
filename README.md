@@ -5,7 +5,10 @@ After that I learned to develop websites with React, then React Native, and now 
 I'm honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Mobile applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
 <br></br>
 
-[![wakatime](https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg)](https://wakatime.com/@EiiDoo)
+
+<a href="https://wakatime.com/@EiiDoo" target="_blank">
+  <img src="https://wakatime.com/badge/user/adfc4f3d-2a86-495f-8ae8-128834185e10.svg" alt="wakatime" />
+</a>
 
 ![AHmed-Eid's Stats](https://github-readme-stats.vercel.app/api?username=EiiiDOo&theme=graywhitek&show_icons=true&hide_border=true&count_private=true)     
 
@@ -14,8 +17,10 @@ I'm honing my skills to deliver exceptional mobile experiences. Passionate about
 [![HackerRank](https://your-image-host.com/hackerrank-badge.png)](https://www.hackerrank.com/your_username)
 -->
 
+<a href="https://leetcode.com/EiiDoo" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/EiiDoo?theme=light&font=baloo&ext=contest" alt="wakatime" />
+</a>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/EiiDoo?theme=light&font=baloo&ext=contest)](https://leetcode.com/EiiDoo)
 <hr/>
 ## 🚀 About Me
 
