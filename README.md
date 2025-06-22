@@ -1,8 +1,15 @@
 # Hi, I'm Ahmed Eid! 👋
 
-I'm Ahmed Eid, an Mobile Application developer Information Technology Institute (ITI) graduate - Android Track.
-After that I learned to develop websites with React, then React Native, and now I am learning Flutter.
-I'm honing my skills to deliver exceptional mobile experiences. Passionate about crafting innovative Mobile applications, I am eager to contribute to dynamic projects and expand my expertise in the mobile app industry.
+I'm a dedicated Mobile Application Developer with a passion for building high-performance, user-focused apps across Android and cross-platform environments. With hands-on experience in native development using Java, Kotlin, and Jetpack Compose, as well as cross-platform frameworks like Flutter, React Native, and Expo, I craft scalable and engaging mobile experiences.
+
+I hold a degree in Science from Tanta University and recently completed an intensive Mobile Application Development program at the Information Technology Institute (ITI). Throughout my career, I’ve worked on various impactful freelance projects, including health apps, e-commerce platforms, weather applications, and utility tools. Each project sharpened my skills in clean architecture, design patterns, and user-centric development.
+
+My toolkit includes technologies such as Room DB, Retrofit, Firebase, Bloc, GetX, GraphQL, RESTful APIs, Supabase, and more. I take pride in writing clean, maintainable code and staying updated with the latest development trends. I'm also committed to principles like SOLID and Clean Code to ensure scalability and performance.
+
+I'm always open to new opportunities, collaborations, and innovative challenges that push the boundaries of mobile tech.
+
+Let's build something impactful together!
+
 <br></br>
 
 
@@ -51,6 +58,8 @@ I'm honing my skills to deliver exceptional mobile experiences. Passionate about
 
 ## 📬 Get in Touch
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmed-eid-6b3414213/)
+&nbsp;
+[![GMail](https://skillicons.dev/icons?i=gmail)](mailto:ahmed.eid159753@gmail.com)
 &nbsp;
 
 
